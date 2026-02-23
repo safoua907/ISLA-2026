@@ -1,9 +1,9 @@
-# Repository for team XX from [Pedro/Isabella]'s group
+# Repository for team 40 from [Pedro/Isabella]'s group
 (The team number refers to the list in [this spreadsheet](https://docs.google.com/spreadsheets/d/1uyknHZdo-aYezE2FsCAuc40igH8JJyGHZquvS-jjN3g/edit?usp=sharing))
 
 This is the template repository that you should use to upload your reports for each TP. Please include the names of the members of the team here below as a list:
 
-- Member 1 : 
+- Member 1 : Safoua HASBOUNI
 - Member 2 :
 - Member 3 :
 
